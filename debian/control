@@ -1,0 +1,12 @@
+Source: mxfb-styles
+Section: fluxbox
+Priority: extra
+Maintainer: dolphin oracle <dolphinoracle@gmail.com>
+Build-Depends: debhelper (>= 10.0.0)
+Standards-Version: 3.9.3
+
+Package: mxfb-styles
+Architecture: all
+Depends: ${misc:Depends}
+Description: Extra styles for fluxbox
+	styles currated by MX fluxbox team
