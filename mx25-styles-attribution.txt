@@ -1,0 +1,24 @@
+***** Traditional *****
+
+Style name: <all>
+Artist/Creator: Tenner
+Licence: Creative Commons Attribution-Share Alike 3.0 Germany License (http://creativecommons.org/licenses/by-sa/3.0/de/)
+URL/Source: http://tenr.de/styles/
+
+***** Modern *****
+
+Style name: MX-comfort, MX-comfort-dark, MX-comfort-plus, MX-comfort-plus-dark, MX-ease, MX-ease-Dark, MX-Matcha, MX-Matcha-Dark 
+Artist/Creator: Melber (forum member)
+Licence: NonCommercial-ShareAlike (CC BY-NC-SA 4.0)
+URL/Source: https://github.com/MelberGithub
+
+Style name: Minimo
+Artist/Creator: Ceeslans (forum member)
+Licence: 
+URL/Source: 
+
+Style name: PiranhaII
+Artist/Creator: Melber, derived from piranhaII xfwm theme by CharlesV (forum member)
+Licence: NonCommercial-ShareAlike (CC BY-NC-SA 4.0)
+URL/Source: https://github.com/MelberGithub
+

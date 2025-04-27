@@ -1,2 +1,2 @@
 # mxfb-styles
-style themes for fluxbox by MX project
+style themes for fluxbox by the MX project

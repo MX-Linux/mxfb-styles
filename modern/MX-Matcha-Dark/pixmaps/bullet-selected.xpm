@@ -1,0 +1,24 @@
+/* XPM */
+static char *bullet_selected[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 2 1 ",
+"  c #0f56d9",
+"o c none",
+/* pixels */
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"ooooo      ooooo",
+"ooooo      ooooo",
+"ooooo      ooooo",
+"ooooo      ooooo",
+"ooooo      ooooo",
+"ooooo      ooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo"
+};
