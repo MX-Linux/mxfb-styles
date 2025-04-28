@@ -1,6 +1,11 @@
+mxfb-styles (25.04.03) mx; urgency=medium
+
+  * remove bogus styles folder
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 28 Apr 2025 19:00:07 -0400
+
 mxfb-styles (25.04.02) mx; urgency=medium
 
-  * Non-maintainer upload.
   * Removed duplicate README
   * Added attributions file
   * Added styles
