@@ -14,8 +14,8 @@ URL/Source: https://github.com/MelberGithub
 
 Style name: Minimo
 Artist/Creator: Ceeslans (forum member)
-Licence: 
-URL/Source: 
+Licence: NonCommercial-ShareAlike (CC BY-NC-SA 4.0)
+URL/Source: based on 'minimo' tint2 panel, originally created by @ututo for BunsenLabs
 
 Style name: PiranhaII
 Artist/Creator: Melber, derived from piranhaII xfwm theme by CharlesV (forum member)
