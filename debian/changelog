@@ -2,7 +2,9 @@ mxfb-styles (25.04.03+nmu1) mx; urgency=medium
 
   * Non-maintainer upload.
   * Added missing licence asnd source
-  * Reduced curated Traditional styles
+  * Removed curated Traditional styles
+  * Removed Traditional folder
+  * Added a Tenner style peak_ocean, licence and source
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 29 Apr 2025 09:29:00 -0400
 
